@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #8d4ed4 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileimage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h5 {
+    color: white;
+    transform: translateY(-8px);
+}
+.biodata {
+    background: linear-gradient(#fcfcfc 0%, #fffcfccb 30%, #dbc0fb02 60%);
+}
+.footer {
+    background-color: white;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 50px;
+}
+.skills a {
+    color: black;
+    font-size: 50px;
+}
